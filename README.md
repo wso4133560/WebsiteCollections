@@ -7,6 +7,7 @@
 名称 | 简介
 ---- | ----- 
 [词根词缀](http://www.etymon.cn/) | 英语词根词缀列表
+[forvo](https://forvo.com/) | 母语发音网站
 
 #### linux内核学习
 名称 | 简介
@@ -50,3 +51,5 @@
 [医学微视](https://www.mvyxws.com/) | 医学科普平台
 [ghproxy](https://ghproxy.com/) | 免费github代理下载网站
 [PDF](https://tools.pdf24.org/zh/) | PDF在线工具
+[deepl](https://www.deepl.com/translator) | 在线翻译网站
+[photopea](https://www.photopea.com/) | 在线ps网站
